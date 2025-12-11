@@ -47,7 +47,12 @@ img {
 }
 
 #likeBtn {
-  padding: 15px 15px;
-  cursor: pointer;
+  text-align: center;
+  width: 600px;
+  margin: 20px auto;
+  padding: 10px;
+  border: 10px solid #052455;
+  color: #05da93;
+  font-size: 28px;
 }
 
