@@ -29,4 +29,8 @@ p {
   font-style: italic;
   border: 10px solid #ddb00e;
 }
+img {
+  border: 6px solid black;  
+  border-radius: 10px;      
+}
 
