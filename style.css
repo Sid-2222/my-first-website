@@ -30,7 +30,23 @@ p {
   border: 10px solid #ddb00e;
 }
 img {
-  border: 6px solid black;  
+  border: 6px solid rgb(190, 71, 71);  
   border-radius: 10px;      
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  gap: 10px; /* space between text and button */
+}
+
+.like-btn {
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+#likeBtn {
+  padding: 15px 15px;
+  cursor: pointer;
 }
 
