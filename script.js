@@ -12,5 +12,11 @@ button.addEventListener("click", () => {
   likeCount++;
   countDisplay.textContent = "Likes: " + likeCount;
   sound.play();
+<<<<<<< HEAD
     
+=======
+  alert("Woof! Woof! you liked me " + likeCount);
+
+  
+>>>>>>> c929c7fe1bc18413474dd2df28c98d481074ffe0
 });
